@@ -1,0 +1,60 @@
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2272
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2280
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2274
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2274
+result::success
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2275
+result::success
+Terminate batch job (Y/N)? 
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2285
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2275
+result::success
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2275
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2285
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2272
+result::success
+Info: Debug token created.
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2275
+result::success
+Info: Debug token created.
+Info: Sending request: Install Debug Token
+Info: Action: Install Debug Token
+Info: File size: 2276
+result::success

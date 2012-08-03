@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" kpf_version="5" name="Tasks.komodoproject">
+<file id="13159561-7882-4500-a1d0-bff0157facf6" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="menuMain.css" url="stylesheet/menuMain.css">
+</file>
+<file id="19486fd6-5835-4dfd-a1d7-91d7de621dac" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="menuMain.js" url="scripts/menuMain.js">
+</file>
+<file id="1f605252-2aff-49fe-bf3e-4261dbdba0ac" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenTemplateDetail.js" url="scripts/screenTemplateDetail.js">
+</file>
+<file id="3797137f-118c-4cae-b7b1-8671367cacc3" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oTask.js" url="scripts/oTask.js">
+</file>
+<file id="3eb35c29-8d92-4ab8-b543-92a53dbe1941" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenTemplates.js" url="scripts/screenTemplates.js">
+</file>
+<file id="3fbab2f3-5f54-4c10-b0ce-0d04997baaaa" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="Registration.js" url="scripts/Registration.js">
+</file>
+<file id="4b21c955-c337-4bab-bd4d-b99fec0ca6f1" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="Tasks.css" url="stylesheet/Tasks.css">
+</file>
+<file id="4eb0c75b-d7d9-4692-b5d3-b061c0dcbe3e" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenChecklist.js" url="scripts/screenChecklist.js">
+</file>
+<file id="5a80ffab-eb40-4965-a670-abb19cf01116" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="index.html" url="index.html">
+</file>
+<file id="5c494d49-e4eb-4a6b-b48b-da1e496e56f4" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oTemplate.js" url="scripts/oTemplate.js">
+</file>
+<file id="72535944-2be2-45c4-86ed-594980162d82" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="cursorFunctions.js" url="scripts/cursorFunctions.js">
+</file>
+<file id="769f921a-fce3-479a-a08f-1aa9341e0726" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenMain.js" url="scripts/screenMain.js">
+</file>
+<file id="77bb5578-c47e-4533-9623-2314325f8a85" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="startup.js" url="scripts/startup.js">
+</file>
+<file id="783cf6fd-82a9-49a4-b0d3-c7d229c13664" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenTask.js" url="scripts/screenTask.js">
+</file>
+<file id="7adc0fb6-fb11-43c5-9262-2c8eee4e9603" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="backup.js" url="scripts/backup.js">
+</file>
+<file id="832d8974-0a46-4449-b5e7-62a907f2cca8" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="menuChecklist.js" url="scripts/menuChecklist.js">
+</file>
+<file id="8a076912-5ce3-4e72-afa0-8ac74d02c41c" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenStep.js" url="scripts/screenStep.js">
+</file>
+<file id="a1de3829-b908-4aea-bd00-af98dfc7c89a" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="screenOptions.js" url="scripts/screenOptions.js">
+</file>
+<file id="a87acfc5-ef67-42f1-ab92-d02d78b1a48f" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="Achievements.js" url="scripts/Achievements.js">
+</file>
+<file id="a903b3fd-fad7-4702-99af-f81585cc1a3e" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="dbChecklist.js" url="scripts/dbChecklist.js">
+</file>
+<file id="b58e640f-b631-4fe7-b112-d69b6d2fc8f2" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oStep.js" url="scripts/oStep.js">
+</file>
+<file id="bd47a281-0e5d-42c1-a11a-5138ce1b1161" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oAchievement.js" url="scripts/oAchievement.js">
+</file>
+<file id="d74a1daa-8c38-427b-b9b3-914da9c9d488" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oArchive.js" url="scripts/oArchive.js">
+</file>
+<file id="e1964de8-a5a5-49fa-a1d9-95e6ae79c699" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="config.xml" url="config.xml">
+</file>
+<file id="fe9bfe54-8ba8-4df1-9818-22f76450576d" idref="4aa0d05d-c9ac-47ed-bd1a-5ed4f6a257d9" name="oChecklist.js" url="scripts/oChecklist.js">
+</file>
+</project>

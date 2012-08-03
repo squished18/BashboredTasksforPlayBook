@@ -1,0 +1,1459 @@
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[ERROR]     		The debug token pathname provided does not point to a file
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[ERROR]     		The debug token pathname provided does not point to a file
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[ERROR]     		The debug token pathname provided does not point to a file
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1338674
+Info: Installing ...
+Info: Processing 1338674 bytes
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.6.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1338985
+Info: Installing ...
+Info: Processing 1338985 bytes
+Info: Progress 91%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1338999
+Info: Installing ...
+Info: Processing 1338999 bytes
+Info: Progress 85%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1339050
+Info: Installing ...
+Info: Processing 1339050 bytes
+Info: Progress 35%...
+Info: Progress 98%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1338992
+Info: Installing ...
+Info: Processing 1338992 bytes
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342007
+Info: Installing ...
+Info: Processing 1342007 bytes
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342106
+Info: Installing ...
+Info: Processing 1342106 bytes
+Info: Progress 61%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342041
+Info: Installing ...
+Info: Processing 1342041 bytes
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342055
+Info: Installing ...
+Info: Processing 1342055 bytes
+Info: Progress 0%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.7.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342536
+Info: Installing ...
+Info: Processing 1342536 bytes
+Info: Progress 0%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.10.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342591
+Info: Installing ...
+Info: Processing 1342591 bytes
+Info: Progress 95%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.10.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342753
+Info: Installing ...
+Info: Processing 1342753 bytes
+Info: Progress 17%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.11.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1342658
+Info: Installing ...
+Info: Processing 1342658 bytes
+Info: Progress 52%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.11.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Terminate batch job (Y/N)? 
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1422029
+Info: Installing ...
+Info: Processing 1422029 bytes
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::tasks2cb1ad4f3eb0ea704c74a73689ad1654.testDev_73689ad165453e66985
+actual_id::testDev_73689ad165453e66985
+actual_version::3.1.16.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1422033
+Info: Installing ...
+Info: Processing 1422033 bytes
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::tasks2cb1ad4f3eb0ea704c74a73689ad1654.testDev_73689ad165453e66985
+actual_id::testDev_73689ad165453e66985
+actual_version::3.1.16.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1422039
+Info: Installing ...
+Info: Processing 1422039 bytes
+Info: Progress 0%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::tasks2cb1ad4f3eb0ea704c74a73689ad1654.testDev_73689ad165453e66985
+actual_id::testDev_73689ad165453e66985
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1422179
+Info: Installing ...
+Info: Processing 1422179 bytes
+Info: Progress 97%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1423883
+Info: Installing ...
+Info: Processing 1423883 bytes
+Info: Progress 76%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1423857
+Info: Installing ...
+Info: Processing 1423857 bytes
+Info: Progress 96%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1423978
+Info: Installing ...
+Info: Processing 1423978 bytes
+Info: Progress 70%...
+Info: Progress 90%...
+Info: Progress 96%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1424007
+Info: Installing ...
+Info: Processing 1424007 bytes
+Info: Progress 41%...
+Info: Progress 93%...
+Info: Progress 96%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1423948
+Info: Installing ...
+Info: Processing 1423948 bytes
+Info: Progress 16%...
+Info: Progress 76%...
+Info: Progress 79%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1424076
+Info: Installing ...
+Info: Processing 1424076 bytes
+Info: Progress 52%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Terminate batch job (Y/N)? 
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1425291
+Info: Installing ...
+Info: Processing 1425291 bytes
+Info: Progress 0%...
+Info: Progress 16%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1426612
+Info: Installing ...
+Info: Processing 1426612 bytes
+Info: Progress 48%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1487610
+Info: Installing ...
+Info: Processing 1487610 bytes
+Info: Progress 15%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.17.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1487785
+Info: Installing ...
+Info: Processing 1487785 bytes
+Info: Progress 98%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1488670
+Info: Installing ...
+Info: Processing 1488670 bytes
+Info: Progress 69%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489779
+Info: Installing ...
+Info: Processing 1489779 bytes
+Info: Progress 44%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489697
+Info: Installing ...
+Info: Processing 1489697 bytes
+Info: Progress 15%...
+Info: Progress 98%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489709
+Info: Installing ...
+Info: Processing 1489709 bytes
+Info: Progress 33%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489644
+Info: Installing ...
+Info: Processing 1489644 bytes
+Info: Progress 30%...
+Info: Progress 93%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489695
+Info: Installing ...
+Info: Processing 1489695 bytes
+Info: Progress 0%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.19.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489839
+Info: Installing ...
+Info: Processing 1489839 bytes
+Info: Progress 33%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.20.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489924
+Info: Installing ...
+Info: Processing 1489924 bytes
+Info: Progress 59%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.21.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489834
+Info: Installing ...
+Info: Processing 1489834 bytes
+Info: Progress 15%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::3.1.21.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490009
+Info: Installing ...
+Info: Processing 1490009 bytes
+Info: Progress 69%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.1.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489889
+Info: Installing ...
+Info: Processing 1489889 bytes
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.2.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1489997
+Info: Installing ...
+Info: Processing 1489997 bytes
+Info: Progress 94%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.2.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490289
+Info: Installing ...
+Info: Processing 1490289 bytes
+Info: Progress 93%...
+Info: Progress 97%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.3.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490382
+Info: Installing ...
+Info: Processing 1490382 bytes
+Info: Progress 15%...
+Info: Progress 94%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.3.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490352
+Info: Installing ...
+Info: Processing 1490352 bytes
+Info: Progress 15%...
+Info: Progress 94%...
+Info: Progress 98%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.3.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490400
+Info: Installing ...
+Info: Processing 1490400 bytes
+Info: Progress 35%...
+Info: Progress 97%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.3.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490548
+Info: Installing ...
+Info: Processing 1490548 bytes
+Info: Progress 0%...
+Info: Progress 94%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.0.4.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1490731
+Info: Installing ...
+Info: Processing 1490731 bytes
+Info: Progress 44%...
+Info: Progress 96%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.1.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Terminate batch job (Y/N)? 
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491225
+Info: Installing ...
+Info: Processing 1491225 bytes
+Info: Progress 59%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491242
+Info: Installing ...
+Info: Processing 1491242 bytes
+actual_dname::
+actual_id::
+actual_version::
+result::failure 881 debug token has expired
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491264
+Info: Installing ...
+Info: Processing 1491264 bytes
+actual_dname::
+actual_id::
+actual_version::
+result::failure 881 debug token has expired
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491259
+Info: Installing ...
+Info: Processing 1491259 bytes
+Info: Progress 59%...
+Info: Progress 97%...
+Info: Progress 98%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491272
+Info: Installing ...
+Info: Processing 1491272 bytes
+Info: Progress 94%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491271
+Info: Installing ...
+Info: Processing 1491271 bytes
+Info: Progress 47%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491323
+Info: Installing ...
+Info: Processing 1491323 bytes
+Info: Progress 76%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.0.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491539
+Info: Installing ...
+Info: Processing 1491539 bytes
+Info: Progress 96%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.1.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491567
+Info: Installing ...
+Info: Processing 1491567 bytes
+Info: Progress 91%...
+Info: Progress 94%...
+Info: Progress 96%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.2.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491703
+Info: Installing ...
+Info: Processing 1491703 bytes
+Info: Progress 0%...
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.4.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491833
+Info: Installing ...
+Info: Processing 1491833 bytes
+actual_dname::
+actual_id::
+actual_version::
+result::failure 881 debug token has expired
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1491819
+Info: Installing ...
+Info: Processing 1491819 bytes
+Info: Progress 98%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.5.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1527000
+Info: Installing ...
+Info: Processing 1527000 bytes
+Info: Progress 14%...
+Info: Progress 68%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.8.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1634990
+Info: Installing ...
+Info: Processing 1634990 bytes
+Info: Progress 92%...
+Info: Progress 99%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.8.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635030
+Info: Installing ...
+Info: Processing 1635030 bytes
+Info: Progress 12%...
+Info: Progress 92%...
+Info: Progress 93%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.8.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635275
+Info: Installing ...
+Info: Processing 1635275 bytes
+Info: Progress 36%...
+Info: Progress 92%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.8.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635384
+Info: Installing ...
+Info: Processing 1635384 bytes
+Info: Progress 91%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.10.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635395
+Info: Installing ...
+Info: Processing 1635395 bytes
+Info: Progress 68%...
+Info: Progress 98%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.10.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635424
+Info: Installing ...
+Info: Processing 1635424 bytes
+Info: Progress 76%...
+Info: Progress 91%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.11.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635514
+Info: Installing ...
+Info: Processing 1635514 bytes
+Info: Progress 31%...
+Info: Progress 49%...
+Info: Progress 92%...
+Info: Progress 97%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.11.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635429
+Info: Installing ...
+Info: Processing 1635429 bytes
+Info: Progress 60%...
+Info: Progress 68%...
+Info: Progress 94%...
+Info: Progress 100%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.11.0
+result::success
+[INFO]      		Parsing command line options
+[INFO]      		Parsing bbwp.properties
+[INFO]      		Validating WebWorks archive
+[INFO]      		Parsing config.xml 
+[INFO]      		Populating application source
+[INFO]      		Compiling WebWorks application
+[INFO]      		Packaging the bar file
+[INFO]      		Bar packaging complete
+[INFO]      		WebWorks application packaging complete
+Info: Sending request: Install
+Info: Action: Install
+Info: File size: 1635512
+Info: Installing ...
+Info: Processing 1635512 bytes
+Info: Progress 76%...
+Info: Progress 92%...
+Info: Progress 94%...
+Info: Progress 100%...
+actual_dname::Tasksef615563c8e8ea902c7fcac3cd2c4246.testDev_ac3cd2c424627afc62_
+actual_id::testDev_ac3cd2c424627afc62_
+actual_version::4.2.11.0
+result::success

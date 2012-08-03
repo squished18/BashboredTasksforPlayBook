@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <!--
+    <meta name="viewport" id="viewport" content="height=device-height,width=device-width,user-scalable=no"/>
+    -->
+    <meta name="viewport" id="viewport" content="width=device-width,height=device-height,target-densitydpi=device-dpi,user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <title>Bashbored Tasks</title>
+    <link rel="stylesheet" href="stylesheet/Tasks.css"/>
+    <link rel="stylesheet" href="stylesheet/menuMain.css"/>
+    <link rel="stylesheet" href="stylesheet/jquery-ui-1.8.21.custom.css"/>
+    <script type="text/javascript" src="scripts/jquery-1.7.2.min.js"></script>
+    <!--
+    <script type="text/javascript" src="scripts/jquery-ui.min.js"></script>
+    -->
+    <script type="text/javascript" src="scripts/oTask.js"></script>    
+    <script type="text/javascript" src="scripts/oChecklist.js"></script>
+    <script type="text/javascript" src="scripts/oStep.js"></script>
+    <script type="text/javascript" src="scripts/oTemplate.js"></script>
+    <script type="text/javascript" src="scripts/oArchive.js"></script>
+    <script type="text/javascript" src="scripts/oAchievement.js"></script>
+    <script type="text/javascript" src="scripts/dbChecklist.js"></script>
+    <script type="text/javascript" src="scripts/screenTask.js"></script>
+    <script type="text/javascript" src="scripts/screenChecklist.js"></script>
+    <script type="text/javascript" src="scripts/screenMain.js"></script>
+    <script type="text/javascript" src="scripts/screenStep.js"></script>  
+    <script type="text/javascript" src="scripts/screenTemplateDetail.js"></script>
+    <script type="text/javascript" src="scripts/screenTemplates.js"></script>
+    <script type="text/javascript" src="scripts/screenOptions.js"></script>
+    <script type="text/javascript" src="scripts/Registration.js"></script>
+    <script type="text/javascript" src="scripts/Achievements.js"></script>
+    <script type="text/javascript" src="scripts/startup.js"></script>
+    <script type="text/javascript" src="scripts/menuMain.js"></script>
+    <script type="text/javascript" src="scripts/menuChecklist.js"></script>
+    <script type="text/javascript" src="scripts/backup.js"></script>
+    <script type="text/javascript" src="scripts/cursorFunctions.js"></script>
+    <script type="text/javascript" src="scripts/jquery-ui-1.8.21.custom.min.js"></script>
+    
+    <div id="divGlobalEvents"></div>
+    <div id="menuMain" class="menuBar">
+        <ul class="menuBarLinks">
+            <li id="buttonTemplates">templates</li>
+        </ul>
+        <ul class="menuBarButton">
+            <li id="buttonContact">contact</li>
+            <li id="buttonOptions">options</li>
+        </ul>
+    </div>
+    
+    <div id="menuChecklist" class="menuBar">
+        <ul class="menuBarLinks">
+            <li id="buttonArchiveCompleted">archive completed</li>
+            <li id="buttonExportHTML">export</li>
+        </ul>
+        <ul class="menuBarButton">
+            <li id="buttonCreateTemplate">create template</li>
+        </ul>
+    </div>
+    
+    <div id="dialogCreateChecklist" title="Create new Checklist">
+        <p class="dialogInstructions">Enter the Description for the new Checklist.</p>
+        
+        <form>
+        <fieldset>
+            <label for="fieldNewChecklistDescription">Description</label>
+            <input type="text" name="fieldNewChecklistDescription" id="fieldNewChecklistDescription" class="text ui-widget-content ui-corner-all"/>
+        </fieldset>
+        </form>
+    </div>
+</head>
+
+<body>
+    <div id="divDisplay">
+        <div id="divScreenSplash">
+            <label>Bashbored Tasks</label><br>
+            <label>v.4.2.11</label><br>
+            <button id='buttonAppWorld'>Purchase Full Version</button>
+        </div>  
+        <!-- <div id="divScreenMain"></div> -->
+        <!-- <div id="divScreenChecklist"></div> -->
+        <!-- <div id="divScreenTask"></div> -->
+        <!-- <div id="divScreenTemplates"></div> -->
+        <!-- <div id="divScreenTemplateDetail"></div> -->
+        <!-- <div id="divScreenStep"></div> -->
+    </div>
+</body>
+</html>
+
+<!--
+1.1.3 : added new database tables: tabArchive and tabSettings
+1.1.5 : enabled Archive Completed feature
+1.1.6 : remove data from tabArchive when deleting a Checklist
+1.1.7 [Mar 15, 2012] : include Archive data when exporting/importing
+    - fixed bug: arrChecklists.sDescription for other checklists being changed,
+    other than the actual checklist being edited
+1.1.9 [Mar 15, 2012] : fixed export bug
+1.1.10 [Mar 15, 2012] : fixed import bug - not reading Archive data
+1.1.11 [Mar 18, 2012] : list of Checklists on mainScreen is sorted alphabetically
+1.1.12 [Mar 18, 2012] : fixed Archive Completed bug - not all completed tasks were being archived
+1.1.13 [Mar 18, 2012] : automatically adjust task order if there is a conflict
+    - added button for Insert Task
+1.1.14 [Mar 19, 2012]: added animation when moving tasks up/down the task list
+    - fixed bug where move up/down was not updating the checkbox states
+1.1.15 : fixed bug: extra space being added to Checklist description when importing/exporting
+2.0.1 : started implementation of Nested Tasks
+    - added left/right buttons on d-pad
+2.0.2 : added fade in/out to show d-pad
+2.0.3 : adjusted animation on move up/down to account for height of buttonTask
+2.0.4 : added animation when exiting screenChecklist
+    - added iNextTaskID and iPrevTaskID to oTask data structure
+2.0.5 [April 5, 2012] : added archive-to-text file when deleting a Checklist
+2.0.6 [April 5, 2012] : hide left/right arrows, animation on going back from screenChecklist in order to release two new features
+2.0.7 : when importing Tasks, only fields that exist in the export file will be imported
+    - this should help with handling schema upgrades
+2.0.8 : added iParentTaskID, iSubTaskID, iPrevTaskID, and iNextTaskID to exported fields when exporting Tasks
+2.0.9 : recursively delete all subTasks from database when deleting a Task
+    - change iTaskFocused to arrTaskFocused
+    - change iTaskClicked to arrTaskClicked
+2.0.10 : subTasks working!
+2.0.11 : debugging upgrade of database schema
+2.0.12 : resolve Task conflict when moving left
+2.0.13 : enabled import/export to handle subTasks
+2.0.14 : modified Delete Tasks method to handle subTasks
+2.0.15 : modify how parentTasks and subTasks are handled when marking Tasks as complete and not complete
+2.0.16 : Archive Completed now handles subTasks
+3.0.1 : [April 15, 2012] release version for subTasks
+3.0.2 : modified behaviour when exiting screenTask with empty sDescription
+3.0.3 : changed delimiter character for import
+3.0.4 : [April 16, 2012] bug fix - removed "start debug" for release version
+3.0.5 : changed delimiter character for export
+3.0.6 : [April 18, 2012] added debug information for screenChecklist events
+    - fixed bug: Back button on screenChecklist not working when screen was scrolled down
+3.0.7 : fixed bug: cursor automatically enabled on Description field when creating a new Checklist
+3.0.8 : added Exit button on the main screen
+3.0.9 : added new table - tabBackup
+3.0.10 : enabled automatic backup
+3.0.11 : enabled automatic backup
+3.0.12 : [May 8, 2012] enabled automatic backup to execute on app startup
+3.0.13 : added buttonInsertSub for adding subTasks directly
+    - remove arrChecklists parameter from dbChecklist.exportDatabase method
+3.1.0 : renumbering to reflect functionality improvement
+3.1.1 : [May 10, 2012] bug fix
+3.1.2 : bug fix - corrected menus being displayed on wrong screens
+3.1.3 : added Options page
+    - fixed bug: archival of subTasks was not working
+3.1.4 : [May 12, 2012] release version for bug fixes
+    - hid Options page for future release
+3.1.5 : added Options page back
+    - recover from automatic backups should be working now
+3.1.6 : added automatic scroll to center active Task when displaying screenChecklist
+3.1.7 : setup for trial version
+3.1.8 : bug fix - keys being intercepted when typing Checklist description
+    - bug fix: tabAchievements was not being imported
+3.1.9 : trial release version
+3.1.10 : bug fix - iOrder compression was not saving to database
+3.1.11 : bug fix - when moving a Task right, if it is not complete, the Task that becomes the parentTask needs to be marked as not complete
+3.1.12 : [May 14, 2012] release version for auto-backup
+    - added tabTemplates to database schema
+3.1.13 : trial release version
+3.1.14 : trial release version
+3.1.15 : trial release version
+3.1.16 : adding Templates functionality
+3.1.17 : adding Templates functionality
+    - display Steps
+3.1.18 : Templates working!
+3.1.19 : bug fix - screenStep not exiting if you opened a screenTask previously
+3.1.20 : bug fix - forgot to enable Delete button on screenStep
+3.1.21 : bug fix - markSubTasksComplete and markParentsNotComplete were not saving results to the database
+4.0.0 : [May 29, 2012] renumbering to reflect functionality improvement
+4.0.1 : encapsulating oChecklist - sDescription
+4.0.2 : bug fix - after adding a new Step, the d-Pad does not show up on screenTemplateDetail
+4.0.3 : added search field to screenMain
+    - bug fix - creating a Checklist from a Template resulted in the Checklist having a blank Description
+4.0.4 : allowed exit from screenChecklist if the sDescription is empty and there are no Tasks
+    - bug fix - creating a Checklist from a Template resulted in duplicate records in tabChecklist in the database
+4.1.0 : [June 11, 2012] renumbering to reflect functionality improvement
+    - bug fix - screenTemplates not always scrolling on displayScreen
+4.2.0 : [June 19, 2012] added export Checklist to HTML functionality
+4.2.1 : modified Archive functionality - the parent Tasks descriptions are included to the Archive text for each subTask
+4.2.2 : changed background color to gradient
+4.2.3 : trial version update
+4.2.4 : added button to clear search field
+4.2.5 : bug fix - exception thrown when creating a Template from a Checklist
+4.2.6 : added individual checks for fields/columns in database table schema when loading
+4.2.7 : [July 19, 2012] free trial release version
+4.2.8 : [July 20, 2012] added due date functionality
+4.2.9 : bug fix - datepicker on screenTask not allowing move to next/previous month
+4.2.10 : move import/export buttons from the menu on the Main Screen into the Options Screen
+4.2.11 : [July 31, 2012] added button to email bashbored@gmail.com
+    -->

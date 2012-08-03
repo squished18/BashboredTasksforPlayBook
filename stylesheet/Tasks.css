@@ -1,0 +1,160 @@
+*
+{
+    font-family: "Lucida Console", Lucida Console, lucida console, monospace;
+    font-size:large;
+    font-weight: bold;
+    margin:0px 0px 0px 0px;
+}
+
+html
+{    
+    
+    /*
+    background: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    */
+    
+    
+    /*
+    background-color:cornsilk; 
+    
+    */
+    background-image: -webkit-linear-gradient(top, #FBFF8F 0%, #A7EB6C 100%);
+    min-height: 100%;    
+}
+
+body
+{
+    margin:3px 3px 3px 3px;
+}
+
+.ulChecklist
+{
+    margin:4px 2px 0px 2px;
+    border:1px solid black;
+    border-radius: 2px;
+    padding:10px 3px 10px 3px;
+    max-width:90%
+}
+
+button.buttonCheck
+{
+    width:35px;
+    height:35px;
+    padding:2px 2px 2px 2px;
+    margin:8px 2px 2px 2px;
+    font-size:20px;
+    vertical-align: top;
+}
+
+button.buttonCheck2
+{
+    width:35px;
+    height:35px;
+    padding:2px 2px 2px 2px;
+    margin:8px 2px 2px 2px;
+    font-size:20px;
+}
+
+button.buttonCheckStep
+{
+    width:35px;
+    height:35px;
+    padding:2px 2px 2px 2px;
+    margin:8px 2px 2px 2px;
+    font-size:20px;
+    vertical-align: top;
+}
+
+button.buttonCreateChecklist
+{
+    width:35px;
+    height:35px;
+    padding:2px 2px 2px 2px;
+    margin:8px 2px 2px 2px;
+    font-size:20px;
+    vertical-align: top;
+}
+
+button.buttonTemplate
+{
+    margin:4px 2px 0px 2px;
+    border:1px solid black;
+    border-radius: 2px;
+    padding:10px 3px 10px 3px;
+    min-width: 80%;
+    max-width: 80%;
+    background-color:cornsilk;
+    text-align: left;
+}
+
+.buttonMove
+{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    z-index: 10;
+}
+
+.buttonTask
+{
+    background-color: white;
+    position: relative;
+    margin:8px 4px 8px 4px;
+    border:1px solid black;
+    padding:6px 5px 6px 5px;
+    min-width: 80%;
+    max-width: 80%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.buttonTaskNew
+{
+    background-color: white;
+    margin:8px 4px 8px 4px;
+    border:1px solid black;
+    padding:6px 5px 6px 5px;
+    min-width: 80%;
+    max-width: 80%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.buttonStep
+{
+    position: relative;
+    margin:8px 4px 8px 4px;
+    border:1px solid black;
+    padding:6px 5px 6px 5px;
+    min-width: 80%;
+    max-width: 80%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.buttonStepNew
+{
+    margin:8px 4px 8px 4px;
+    border:1px solid black;
+    padding:6px 5px 6px 5px;
+    min-width: 80%;
+    max-width: 80%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.divTask
+{
+    position: relative;
+}
+
+.divStep
+{
+    position: relative;
+}
+
+.selectOrder
+{
+    right:5px;
+}
